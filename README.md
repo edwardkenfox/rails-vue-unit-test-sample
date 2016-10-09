@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample project of how to write front-end unit tests using Ruby on Rails as back-end and Vue.js as front-end framework.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See [Rails + Vue.jsなアプリケーションではじめてのフロントエンドのユニットテスト](http://qiita.com/drafts/a44dd04fb80c30c53aba) for more details.
